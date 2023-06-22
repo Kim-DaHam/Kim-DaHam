@@ -9,7 +9,7 @@
 <br>
 🔗 기술 공부: [https://velog.io/@alldone](https://velog.io/@alldone)
 
-<hr/>
+<br>
 
 ### 📍 Skills
 #### Languages & Libraries
@@ -25,13 +25,13 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/></a>
 
-<hr/>
+<br>
 
 ### 🛠️ Tools
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>
 
-<hr/>
+<br>
 
 ### 🌟 Recent Project
 ⚪ [WEBKIT640 홈페이지](https://webkit640.com)
