@@ -6,6 +6,7 @@
 
 ## My Blogs
 🔗 프로젝트/실습: [https://all-done.tistory.com/](https://all-done.tistory.com/)
+<br>
 🔗 기술 공부: [https://velog.io/@alldone](https://velog.io/@alldone)
 
 ## Skills
@@ -16,12 +17,8 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat&logo=ReactQuery&logoColor=white"/></a>
 
-<br>
-
 <a href="" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/></a>
-
-<br>
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=Storybook&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/styled-components-DB7093?style=flat&logo=styled-components&logoColor=white"/></a>
