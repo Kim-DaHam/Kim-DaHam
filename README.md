@@ -1,6 +1,5 @@
 
-### 프론트엔드 개발자를 목표로 하는 김다함 입니다. 👋
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-DaHam&langs_count=10&layout=compact&theme=light)](https://github.com/Kim-DaHam/github-readme-stats)﻿
+### 프론트엔드 개발자를 목표로 하는 김다함 입니다. 👋﻿
 
 <br>
 
