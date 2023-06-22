@@ -1,8 +1,7 @@
-<center>
-  
-  ### Hi there 👋
 
-</center>
+### Hi there 👋
+
+<br>
 
 ### My Blogs
 🔗 프로젝트/실습: [https://all-done.tistory.com/](https://all-done.tistory.com/)
