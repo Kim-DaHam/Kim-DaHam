@@ -33,6 +33,6 @@
 <br>
 
 ### 🌟 Recent Project
-* [WEBKIT640 홈페이지](https://webkit640.com)
+* [WEBKIT640](https://webkit640.com)
 * [Portfolly](https://portfolly013.netlify.app/main)
 
