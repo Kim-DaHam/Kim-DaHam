@@ -6,7 +6,7 @@
 ### 🏠 My Blogs
 🔗 프로젝트 과정: [https://all-done.tistory.com/](https://all-done.tistory.com/)
 <br>
-🔗 기술 공부: [https://velog.io/@alldone](https://velog.io/@alldone)
+🔗 FE 기술 공부: [https://velog.io/@alldone](https://velog.io/@alldone)
 
 <br>
 
